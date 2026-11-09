@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+**/*.UnitTests/
+.env
+.git/
+.vs/

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Chunk.Core.UnitTests/Chunk.Core.UnitTests.csproj" />
+  <Project Path="Chunk.Core/Chunk.Core.csproj" />
+  <Project Path="Chunk.Worker.UnitTests/Chunk.Worker.UnitTests.csproj" />
+  <Project Path="Chunk.Worker/Chunk.Worker.csproj" />
+</Solution>
